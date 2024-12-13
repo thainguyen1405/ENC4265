@@ -11,7 +11,7 @@ Click through the sample website, and see how to organize your assignments for t
 This is just one more skill that can help you stand out in the job market! There is a big push for technical documents to be treated as code--and even to write them in the same software as code--for software and technical companies. Plus, Github pages use **Markdown**, which is another impressive skill for your resume.
 
 ## Basics
-- [Fork (copy) and edit this whole repository], then you can just update the content with your own work, creating your own portfolio!
+- [Fork (copy) this whole repository](#how-to-fork-copy-this-repository), then you can just edit the content with your own work, creating your own portfolio!
 - index.md = your home page
 - You can edit the markdown files directly on GitHub.
 - **Commit changes...** means **save**. Don't forget to save!
@@ -21,15 +21,16 @@ This is just one more skill that can help you stand out in the job market! There
 
 ---
 ## Resources
-- [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
-- [GitHub Quickstart Guide](https://docs.github.com/en/pages/quickstart)
+-  [GitHub Quickstart Guide](https://docs.github.com/en/pages/quickstart)
+-  [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+-  [More detailed Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html)
 ---
 
 ## How to Fork (copy) this Repository
 
 1. **Go to the Repository**
-   - Open your web browser and go to the GitHub repository: ekjphd/ENC4265.
-   - *If you are reading this, you're here.* :)
+   - Go to the GitHub repository: [ekjphd/ENC4265](index.md).
+  
 
 2. **Fork the Repository**
    - In the top right corner of the repository page, click the "Fork" button. This will create a copy of the repository under your own GitHub account.
