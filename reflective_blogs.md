@@ -1,5 +1,10 @@
 [Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) 
 
+# Table of Contents 
+1. [Wayback Analysis](#wayback-analysis)
+2. [Quick Start Guide](#quick-start-guide)
+3. [Reflective Blog 3](#reflective-blog-3)
+   
 # Wayback Analysis
 
 ## Assignment Rationale 
@@ -28,3 +33,6 @@ On your portfolio, post the following:
 -Your prompts
 -The best output 
 -Your reflection 
+---
+# Reflective Blog 3
+TBD
