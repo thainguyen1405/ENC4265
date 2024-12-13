@@ -7,3 +7,4 @@ This is a paragraph about me. It explains my major at UCF, my career goals, and 
 
 *Note: this can be written in first person (I, me) or in third person. This is helpful if you use nonbinary pronouns or have a name that isn't easy for most people to discern gender, like Jamie, Alex, etc.*
 
+[Start Here instructional page for copying this website](starthere.md)
