@@ -28,27 +28,28 @@ This is just one more skill that can help you stand out in the job market! There
 ---
 ## How to Fork (copy) this Repository
 
-1. **Go to the Repository**
-   - Go to the GitHub repository: [ekjphd/ENC4265](index.md).
+1. **Create or log into your own Github account first!!**
+   
+3. **Go to the Repository**
+   - Go to the GitHub repository: [ekjphd/ENC4265](https://github.com/ekjphd/ENC4265).
   
-
-2. **Fork the Repository**
+4. **Fork the Repository**
    - In the top right corner of the repository page, click the "Fork" button. This will create a copy of the repository under your own GitHub account.
 
-3. **Navigate to Your Fork**
+5. **Navigate to Your Fork**
    - Once the repository is forked, you'll be redirected to your copy of the repository under your GitHub account.
 
-4. **Create or Edit Files**
+6. **Create or Edit Files**
    - To create a new file, click the "Add file" button and select "Create new file".
    - To edit an existing file, navigate to the file and click the pencil icon (✏️) in the top right corner of the file view.
 
-5. **Make Your Changes**
+7. **Make Your Changes**
    - Use the GitHub editor to make your changes. You can write and edit Markdown files directly in the browser.
 
-6. **Save Your Changes**
+8. **Save Your Changes**
    - After making your changes, scroll down to the "Commit changes" section.
    - It will ask you for a commit message describing your changes, but you can just accept the auto-generated description (this is not a big deal).
-   - Make sure "Commit directly to the `main` branch" is chosen (it should be by default) and click "Commit changes".
+   - Make sure "Commit directly to the `main` branch" is chosen (it should be by default) and click "Commit changes."
 
 
 ---
