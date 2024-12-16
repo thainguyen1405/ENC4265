@@ -24,8 +24,8 @@ This is just one more skill that can help you stand out in the job market! There
 -  [GitHub Quickstart Guide](https://docs.github.com/en/pages/quickstart)
 -  [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 -  [More detailed Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html)
----
 
+---
 ## How to Fork (copy) this Repository
 
 1. **Go to the Repository**
