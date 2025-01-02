@@ -8,4 +8,4 @@ This is a paragraph about me. It explains my major at UCF, my career goals, and 
 *Note: this can be written in first person (I, me) or in third person (he/she/they). Third person is especially helpful if you use nonbinary pronouns or have a name that people often misgender.*
 
 [Start Here instructional page for copying this website](starthere.md)
-![Image of me](https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg)
+<center><img src="https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg"></center>
