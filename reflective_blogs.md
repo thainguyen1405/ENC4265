@@ -34,5 +34,5 @@ On your portfolio, post the following:
 -The best output 
 -Your reflection 
 ---
-# Reflective Blog 3
+# My Reflection
 After several test cases by using ChatGPT to create a quick start guide, I was surprised at how fast and straightforward it was. At first, I gave a briefly short prompt for the computer quick start set-up, chatGPT declared the point very well through each steps but a little lacked details. However, after I tried to prompt the idea again and again, I found that the AI's response improved significantly with clear and extreme details in each part of the setup. One strength, I noticed that the chatGPT's ability to produce well-structured lists and clear bullet points, which is really helpful as step by step, easily led me to the final guide. In contrast, for my specific prompt (setup computer), It was not very ideal for me by looking at the description rather than having the visual picture tutorial like video, and sometimes the AI tool occasionally repeated itself or included filler material. Finally, the experience with AI was amazing since I said I was surprised by how quickly it adapted to each prompt tweak, it would be more accurate for me to double-check AI-generated content for correctness, generally chatGPT is a phenomenal tool for precise instructions, able to approach for everyone.
