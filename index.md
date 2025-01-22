@@ -1,4 +1,4 @@
-[Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [In progress](chatbot.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) 
+[Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Notepad](notepad.md) | [In progress](soon.md) | [Reflective Blogs](reflective_blogs.md) 
 
 # Welcome to my Digital Portfolio 
 
