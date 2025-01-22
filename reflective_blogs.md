@@ -1,9 +1,9 @@
 [Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) 
 
 # Table of Assignment 
-1. [Wayback Analysis](#wayback-analysis)
-2. [Quick Start Guide](#quick-start-guide)
-3. [Reflective Blog 3](#reflective-blog-3)
+1. [Website Setup](#wayback-analysis)
+2. [Reflective 1](#quick-start-guide)
+3. [Reflective (TBA)](#reflective-blog-3)
    
 # Website Setup
 Dr Emily Johnson advises "Looks good! You might want to also delete the link to the instructional page for copying the website. I see an icon for an image but I don't see that image itself - let me know if you need some more help. :)"
@@ -33,4 +33,4 @@ My perspective, modern websites should follow the minimalism to create clear, fo
 My experience with outdated sites was lost and uncomfortable. The text was hard to read, and everything looked messy and cluttered. Sometimes I even got chills looking through them - they felt spooky in a way. The websites didn't show information clearly, I was very focus just to understand what I was looking at. The old-fashioned fonts and text layout made my eyes tired, and I found myself wanting to leave the sites quickly. It was strange to see how different these were from the clean, easy-to-use websites I'm used to today.
 
 ---
-# To be continue
+# Soon
