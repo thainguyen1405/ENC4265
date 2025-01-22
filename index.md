@@ -9,4 +9,5 @@ Thai (he/him), is a motivated and enthusiastic Computer Science student, current
 
 
 
-![unnamed-Photoroom (1)](https://github.com/user-attachments/assets/c9f1ed63-4d98-418d-ad28-8551d6a878c2)
+![unnamed-Photoroom (2)](https://github.com/user-attachments/assets/86352463-c1c8-4c8f-913d-e75b2a44fb2c)
+
