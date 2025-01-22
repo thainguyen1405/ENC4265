@@ -7,6 +7,5 @@ Thai (he/him), is a motivated and enthusiastic Computer Science student, current
 
 *Note: This page was developed with writing assistance from Claude, an AI language model by Anthropic, to help refine and improve the text content.
 
-[Start Here instructional page for copying this website](starthere.md)
 <center><img src="![297098413_1461078541045237_4802067369208840048_n-Asus-ZenBook-T4](https://github.com/user-attachments/assets/6f430adf-c080-45b8-812f-0f421f6c20bf)"></center>
 
