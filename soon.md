@@ -1,4 +1,4 @@
-[Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Notepad](notepad.md) | [In progress](soon.md) | [Reflective Blogs](reflective_blogs.md)
+[Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Notepad](notepad.md) | [Guide](soon.md) | [Reflective Blogs](reflective_blogs.md)
 
 # The art of angling: Set up your fish gear like a pro
 Setting up fishing equiment is a critical process to ensure a sucessful fishing exeperience for people who are interested. This process can be benefit, escpecially begineers, from clear instructions on how to prepare their gear effictively. The primary objective is sharing knowledge and confidence needed to proficiently set up their equipment for a successful fishing expedition.
