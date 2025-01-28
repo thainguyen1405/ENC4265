@@ -5,8 +5,11 @@ Setting up fishing equiment is a critical process to ensure a sucessful fishing 
 
 Here is the quick-step guide:
     • Gather your gear
+    
     • Rod-reel connection
+    
     • The trio hook, bobber, bait
+    
     • Check, cast and enjoy!
 
 ## Gather you gear
