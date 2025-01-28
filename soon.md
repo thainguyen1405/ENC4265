@@ -4,13 +4,11 @@
 Setting up fishing equiment is a critical process to ensure a sucessful fishing exeperience for people who are interested. This process can be benefit, escpecially begineers, from clear instructions on how to prepare their gear effictively. The primary objective is sharing knowledge and confidence needed to proficiently set up their equipment for a successful fishing expedition.
 
 Here is the quick-step guide:
-    • Gather your gear
-    
-    • Rod-reel connection
-    
-    • The trio hook, bobber, bait
-    
-    • Check, cast and enjoy!
+- **Gather your gear**
+- **Rod-reel connection**
+- **The trio hook, bobber, bait**
+- **Check, cast, and enjoy!**
+
 
 ## Gather you gear
 - **Rod and Reel**: As a beginner, you may choose a multi-purpose combo set.
