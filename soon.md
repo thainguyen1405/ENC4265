@@ -44,7 +44,9 @@ The hook can be knoted by using line through the hole, wrap 5 times, tied it cle
 
 ![Attach sinker](https://github.com/user-attachments/assets/078821c0-de18-4374-88f0-c97e498d4807)
 
+
 **Note: Hooks often include sharp objects, they can be extremely sharp and cause injure if mishandled. Use caution when handling these items to avoid cuts and puncures.
+
 
 Make a range above 3-4 ft above your hook for bobber. Wrap your line once or twice, put your thumb over the bottom of the bobber, unclip one end of the bobber to change its position.
 
