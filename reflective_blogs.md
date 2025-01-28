@@ -33,4 +33,5 @@ My perspective, modern websites should follow the minimalism to create clear, fo
 My experience with outdated sites was lost and uncomfortable. The text was hard to read, and everything looked messy and cluttered. Sometimes I even got chills looking through them - they felt spooky in a way. The websites didn't show information clearly, I was very focus just to understand what I was looking at. The old-fashioned fonts and text layout made my eyes tired, and I found myself wanting to leave the sites quickly. It was strange to see how different these were from the clean, easy-to-use websites I'm used to today.
 
 ---
-# Soon
+# Reflective Blog 2: Quick-Start Guide
+**Note: I created a guide in the Guide tab on the top.
