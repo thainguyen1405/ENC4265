@@ -18,23 +18,24 @@ Here is the quick-step guide:
 - **Bait**: The bait can be diverse; consider using worms, shrimp, or small fish.
 
 ## Rod-reel connection
-Assembling your rod and reel
-    + Bring the pieces together. Align the female and male pieces on a flat service. Holding 
-    the female ferrule securely, anchor the male ferrule around it.
-     
-    + Attach the reel. While looking at the bottom of your rod, you should see a female opening to insert your reel. This is called the reel seat. Insert 
-     your reel. Rotate until the pieces all feel secure. 
-     
-    ![Assembly rod   reel](https://github.com/user-attachments/assets/a587829b-171a-42d0-9ecc-c7ffb49542c0)
+### Assembling your rod and reel
++ **Bring the pieces together.** Align the female and male pieces on a flat surface. Holding 
+  the female ferrule securely, anchor the male ferrule around it.
+   
++ **Attach the reel.** While looking at the bottom of your rod, you should see a female opening to insert your reel. This is called the reel seat. Insert 
+  your reel and rotate until the pieces all feel secure.
 
-Threading your fishing rod
-    + Lift the bale arm and pull the thread. After lifting, you will be able to pull the edge of the thread and the reel will unravel it. 
+![Assembly rod and reel](https://github.com/user-attachments/assets/a587829b-171a-42d0-9ecc-c7ffb49542c0)
 
-    +	Thread the line through the guides. Starting at the closest to the reel, thread it with the line starting at the bottom and coming out of the top. 
+### Threading your fishing rod
++ **Lift the bale arm and pull the thread.** After lifting, you will be able to pull the edge of the thread and the reel will unravel it. 
 
-    +	Close the bale arm. Simply flip it the opposite direction as you previously moved it.
++ **Thread the line through the guides.** Starting at the closest to the reel, thread it with the line starting at the bottom and coming out of the top. 
 
-    ![Threading your rod](https://github.com/user-attachments/assets/d870cd17-9e55-4e00-9965-e414c8960346)
++ **Close the bale arm.** Simply flip it in the opposite direction as you previously moved it.
+
+![Threading your rod](https://github.com/user-attachments/assets/d870cd17-9e55-4e00-9965-e414c8960346)
+
 
 ## The trio hook, bobber, bait
 The hook can be knoted by using line through the hole, wrap 5 times, tied it clear and cut the remain line. Attach a sinker above the hook mearsure by 4 finger-widths.
