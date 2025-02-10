@@ -3,10 +3,10 @@
 # Manual Assessment Memo
 
 **MEMORANDUM**  
-**To**: Samson Hu CEO of ASUS  
-**From**: Thai Nguyen  
-**Subject**: Recommendations for ZenBook Flip 15 manual  
-**Date**: February 9, 2025  
+**TO**: Samson Hu CEO of ASUS  
+**FROM**: Thai Nguyen  
+**SUBJECT**: Recommendations for ZenBook Flip 15 manual  
+**DATE**: February 9, 2025  
 
 
 I evaluated the manual for ZenBook Flip 15 available at: https://www.manua.ls/asus/zenbook-flip-15/manual
