@@ -21,11 +21,11 @@ I evaluated the manual for ZenBook Flip 15 available at: https://www.manua.ls/as
 
 <br>
 To improve the manual, I recommend the following modifications:
+
 - Simplify technical explanations for BIOS setting.
 - Include more illustrations and diagrams of hardware components.
 - Expand the troubleshooting section for more common issues.
 - Add a section for optimizing battery performance and longevity.
 
-<br>
 
 AI statement: This page was developed with writing assistance from Claude, an AI language model by Anthropic, to help refine and improve the text content.
