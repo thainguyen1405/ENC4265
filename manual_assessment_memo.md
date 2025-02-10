@@ -4,7 +4,7 @@
 
 **MEMORANDUM**  
 **To**: Samson Hu CEO of ASUS  
-**From**: student  
+**From**: Thai Nguyen  
 **Subject**: Recommendations for ZenBook Flip 15 manual  
 **Date**: February 9, 2025  
 
