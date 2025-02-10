@@ -9,8 +9,7 @@
 **DATE**: February 9, 2025  
 
 
-I evaluated the manual for ZenBook Flip 15 available at:  
-<https://www.manua.ls/asus/zenbook-flip-15/manual>
+I evaluated the manual for ZenBook Flip 15 available at:  <https://www.manua.ls/asus/zenbook-flip-15/manual>
 
 <br>
 
