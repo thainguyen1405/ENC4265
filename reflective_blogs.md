@@ -2,7 +2,7 @@
 
 # Table of Assignment 
 1. [Website Setup](#website-setup)
-2. [Reflective 1](#reflective-1)
+2. [Reflective 1](#reflective-blog-1-wayback-analysis)
 3. [Reflective 2](soon.md)
 4. [Reflective 3](reflective_blogs3.md)
    
