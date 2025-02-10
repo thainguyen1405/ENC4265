@@ -13,11 +13,11 @@ I evaluated the manual for ZenBook Flip 15 available at:  <https://www.manua.ls/
 
 <br>
 
-**Strength**: The strength of this manual is extremely significant comprehensive. It provides a well-structured overview of the notebook's hardware, including a detailed description of ports, buttons, and features. The step-by-step setup instructions are clear and brief, allow users to easily get started. Additionally, the manual offers useful troobleshooting tips and FAQs, which can be helpful for resolving common issues.  
+**Strength**: The strength of this manual is extremely significant and comprehensive. It provides a well-structured overview of the notebook's hardware, including a detailed description of ports, buttons, and features. The step-by-step setup instructions are clear and brief, allow users to easily get started. Additionally, the manual offers useful troobleshooting tips and FAQs, which can be helpful for resolving common issues.  
 
 <br>
 
-**Weakness**: Despite the strengths, there are notable weaknesses that need to be addressed. The BIOS access instructions easier to understand by adding explanations for users unfamiliar with technical terminology. As well, the manual lacks visual aids for certain hardware components, which could improve comprehension. The troubleshooting section should include more common issues, such as Wi-Fi connectivity problems and battery calibration. 
+**Weakness**: Despite the strengths, there are notable weaknesses that need to be addressed. The BIOS access instructions could be easier to understand by adding explanations for users unfamiliar with technical terminology. As well, the manual lacks visual aids for certain hardware components, which could improve comprehension. The troubleshooting section should include more common issues, such as Wi-Fi connectivity problems and battery calibration. 
 
 <br>
 To improve the manual, I recommend the following modifications:
