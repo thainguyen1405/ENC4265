@@ -3,7 +3,7 @@
 # Table of Assignment 
 1. [Website Setup](#wayback-analysis)
 2. [Reflective 1](#quick-start-guide)
-3. [Reflective 2](#soon.md)
+3. [Reflective 2](soon.md)
 4. [Reflective 3](reflective_blogs3.md)
    
 # Website Setup
