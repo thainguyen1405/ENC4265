@@ -1,8 +1,8 @@
 [Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Notepad](notepad.md) | [Guide](soon.md) | [Reflective Blogs](reflective_blogs.md) 
 
 # Table of Assignment 
-1. [Website Setup](#wayback-analysis)
-2. [Reflective 1](#quick-start-guide)
+1. [Website Setup](#website-setup)
+2. [Reflective 1](#reflective-1)
 3. [Reflective 2](soon.md)
 4. [Reflective 3](reflective_blogs3.md)
    
