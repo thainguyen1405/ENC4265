@@ -4,7 +4,7 @@
 1. [Website Setup](#wayback-analysis)
 2. [Reflective 1](#quick-start-guide)
 3. [Reflective 2](#soon)
-4. [Reflective 3](#reflective_blogs3)
+4. [Reflective 3](reflective_blogs3.md)
    
 # Website Setup
 Dr Emily Johnson advises "Looks good! You might want to also delete the link to the instructional page for copying the website. I see an icon for an image but I don't see that image itself - let me know if you need some more help. :)"
