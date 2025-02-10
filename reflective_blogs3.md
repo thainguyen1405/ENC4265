@@ -23,3 +23,5 @@ After spending plenty of time with Shein AI customer service, I have drafted a r
 **Context**: For Shein, the chatbot helps manage a large number of customer questions efficiently. It reduces the need for human agents, allowing them to handle more complex issues. For users, it provides quick answers to common questions but struggles with personalized requests. Improving real-time order tracking and making conversations more natural could enhance customer satisfaction and streamline support.
 
 **Conclusion**: Overall, the Shein AI chatbot serves its intended purpose of guiding customers through common inquiries, but its limitations in handling complex or personalized questions reduce its effectiveness. This limitation can improve in the future for the usser expreience.
+
+**Note: This page was developed with writing assistance from Claude, an AI language model by Anthropic, to help refine and improve the text content.
