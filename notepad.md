@@ -13,4 +13,25 @@ Thai (he/him), is a motivated and enthusiastic Computer Science student, current
 
 (I also noticed that you updated the image on your "about me" page! Looks great!)"
 
-![Study background](https://github.com/user-attachments/assets/eff41a46-d89a-4081-bced-39760869d5d3)
+
+## Reflective Blog 2
+Nice job with the Markdown formatting! 
+
+Make sure you send the direct link to the page each time - I looked on the Reflective Blogs link first and didn't find it there.
+
+I like the table of contents here, but unless they are linked, it's not necessary to have that for a short quick-start guide.
+
+Fishing is a bit complex for a quick-start guide topic. For a quick-start, it is best to only focus on the actions the readers need to follow, not the definitions of words or rationale behind them--the "what" not the "why." So this section defining things doesn't belong in a guide like this. The quick-start should be specific steps for a specific topic: how to bait a hook with a worm; how to spool a fishing reel; etc.
+
+There are a lot of specialized terms here that a novice may not know: bobber, combo set, the different types of line, bale arm, etc. Try to use words that the novice would understand or briefly explain them in the sentence: 
+
+Nice job including images here! But there should always be text between images. Adding one image under each step would be helpful. Make sure to add captions: Figure 1. Short description (Image by: [linked name]). Without citations, you could be violating copyright. If they are photos you have taken yourself, cite yourself so that it is clear you took them. 
+
+Technical writing doesn't typically include introductions or conclusions. Just one final step that indicates the process is complete. 
+
+As always, let me know if you have questions or I can clarify any of my feedback!
+
+
+## SHOWCASE 1
+Nice, supportive replies and suggestions! Please make sure that you cite the readings to support your points next time :)
+
