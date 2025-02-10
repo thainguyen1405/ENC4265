@@ -27,5 +27,5 @@ To improve the manual, I recommend the following modifications:
 - Expand the troubleshooting section for more common issues.
 - Add a section for optimizing battery performance and longevity.
 
-
+<br>
 AI statement: This page was developed with writing assistance from Claude, an AI language model by Anthropic, to help refine and improve the text content.
