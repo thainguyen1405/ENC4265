@@ -5,6 +5,7 @@
 2. [Reflective 1](#reflective-blog-1-wayback-analysis)
 3. [Reflective 2](soon.md)
 4. [Reflective 3](reflective_blogs3.md)
+5. [Reflective 4](reflective_blogs4.md)
    
 # Website Setup
 Dr Emily Johnson advises "Looks good! You might want to also delete the link to the instructional page for copying the website. I see an icon for an image but I don't see that image itself - let me know if you need some more help. :)"
