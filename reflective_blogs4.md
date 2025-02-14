@@ -23,7 +23,7 @@ After review with Asus Zenbook manual, I have drafted a reflective analysis on i
 ### Inefffective
 
 **Minimal Troubleshooting Depth**: Although FAQ is useful for common problems, it lacks in-depth troubleshooting steps for more complex technical issues such as: BIOS errors, advanced driver trobleshooting, or hardware malfunctions. It could add more detail with screenshots and flowcharts which wold be helpful for the users.
-
+<br>
 
 **Limited Guidance**: The manual provides general Windows 10 setup instructions, however it does not cover customization tips in-depth. Sometimes users prefer guidance on optimizing power settings, adjusting display configurations, or using ASUS-exclusive features like MyASUS Splendid. Expanding this section would improve user experience.
 
