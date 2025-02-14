@@ -15,7 +15,9 @@ After review with Asus Zenbook manual, I have drafted a reflective analysis on i
 
 ![Screenshot 2025-02-14 015606](https://github.com/user-attachments/assets/f736b99a-4ec3-4b3c-a115-2a658d314ed5)
 
-**Visuals & Text**: The icons and bolded text helps highlisht critical information such as safety precautions and hardware specifications. The use of diagrams, particularly in the Hardware Setup Section is effective in guiding users. ![Screenshot 
+**Visuals & Text**: The icons and bolded text helps highlisht critical information such as safety precautions and hardware specifications. The use of diagrams, particularly in the Hardware Setup Section is effective in guiding users.
+<br>
+
 ![Screenshot 2025-02-14 015736](https://github.com/user-attachments/assets/14ed8dff-2707-419b-84b7-badf1d62140f)
 
 **Step-by-Step Instructions**: The manual provides clear instructions for tasks like charging the device, connecting to Wi-fi, using keyboard shortcuts, and troubleshooting. These structured guides help users follow along easily, even if they don't have any prior technical knowledge before.
