@@ -10,7 +10,7 @@ After review with Asus Zenbook manual, I have drafted a reflective analysis on i
 
 ### Effective
 
-**Structure & Organization: The Asus manual is well-organized which have a clear table of contents that makes navigation straightforward. Each section is related to specific aspects of the laptop such as: hardware setup, Windown 10 functionality, troubleshooting, and power management. This division allows user to quickly find relevant information without unnecessary searching.
+**Structure & Organization**: The Asus manual is well-organized which have a clear table of contents that makes navigation straightforward. Each section is related to specific aspects of the laptop such as: hardware setup, Windown 10 functionality, troubleshooting, and power management. This division allows user to quickly find relevant information without unnecessary searching.
 ![Screenshot 2025-02-14 015606](https://github.com/user-attachments/assets/f736b99a-4ec3-4b3c-a115-2a658d314ed5)
 
 **Visuals & Text**: The icons and bolded text helps highlisht critical information such as safety precautions and hardware specifications. The use of diagrams, particularly in the Hardware Setup Section is effective in guiding users. ![Screenshot 
@@ -22,7 +22,7 @@ After review with Asus Zenbook manual, I have drafted a reflective analysis on i
 
 ### Inefffective
 
-**Minimal Troubleshooting Depth": Although FAQ is useful for common problems, it lacks in-depth troubleshooting steps for more complex technical issues such as: BIOS errors, advanced driver trobleshooting, or hardware malfunctions. It could add more detail with screenshots and flowcharts which wold be helpful for the users.
+**Minimal Troubleshooting Depth**: Although FAQ is useful for common problems, it lacks in-depth troubleshooting steps for more complex technical issues such as: BIOS errors, advanced driver trobleshooting, or hardware malfunctions. It could add more detail with screenshots and flowcharts which wold be helpful for the users.
 
 **Limited Guidance**: The manual provides general Windows 10 setup instructions, however it does not cover customization tips in-depth. Sometimes users prefer guidance on optimizing power settings, adjusting display configurations, or using ASUS-exclusive features like MyASUS Splendid. Expanding this section would improve user experience.
 
