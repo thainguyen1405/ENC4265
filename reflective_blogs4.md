@@ -17,6 +17,7 @@ After review with Asus Zenbook manual, I have drafted a reflective analysis on i
 ![Screenshot 2025-02-14 015736](https://github.com/user-attachments/assets/14ed8dff-2707-419b-84b7-badf1d62140f)
 
 **Step-by-Step Instructions**: The manual provides clear instructions for tasks like charging the device, connecting to Wi-fi, using keyboard shortcuts, and troubleshooting. These structured guides help users follow along easily, even if they don't have any prior technical knowledge before.
+
 ![Screenshot 2025-02-14 020230](https://github.com/user-attachments/assets/da87948b-3284-4a11-84dd-b3310710d9ef)
 
 ### Inefffective
