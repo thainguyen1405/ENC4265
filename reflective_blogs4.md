@@ -23,7 +23,8 @@ After review with Asus Zenbook manual, I have drafted a reflective analysis on i
 <br>
 
 ![Screenshot 2025-02-14 015736](https://github.com/user-attachments/assets/14ed8dff-2707-419b-84b7-badf1d62140f)
-<br>
+
+
 *Figure 2: Diagram showcasing the Zenbook, labeling components*
 
 **Step-by-Step Instructions**: The manual provides clear instructions for tasks like charging the device, connecting to Wi-fi, using keyboard shortcuts, and troubleshooting. These structured guides help users follow along easily, even if they don't have any prior technical knowledge before.
@@ -44,7 +45,8 @@ After review with Asus Zenbook manual, I have drafted a reflective analysis on i
 **Software Information**: Moreover the instruction on Window 10, guidance could be more specific to ASUS utilities and pre-installed software including an appendix or linking to online tutorials fir MyASUS, BIOS settings, and ASUS Pen functionality would be useful. 
 
 ![Screenshot 2025-02-14 023037](https://github.com/user-attachments/assets/2a68f620-f9a3-4fb9-9064-820fb5478515)
-<br>
+
+
 *Figure 4: Instructions on accessing the BIOS with an annotation suggesting more specificity for better clarity.*
 
 ## Final Thought
