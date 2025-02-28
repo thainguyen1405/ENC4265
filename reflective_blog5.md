@@ -34,6 +34,10 @@ After review the Manual Assessment Memo, I have drafted a reflective analysis on
 
 <br>
 
+![Screenshot 2025-02-28 011628](https://github.com/user-attachments/assets/9a76d589-1786-4449-8746-45382be26d21)
+
+
+
 **Conclusion**: The structure of chatGPT sound business documents with appropriate formatting and organization. However, it lacks the personal touch, specific insights, and context compare to human-written memo provides. The primary advantage of AI seems to be quickly generate a comprehensive framework, while its main limitation is providing the specific, contextually relevant insights that come from actually engaging deeply with the material.
 
 
