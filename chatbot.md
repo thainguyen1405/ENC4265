@@ -1,6 +1,11 @@
 # Chatbot
 
+## Chatbot analysis: GPT-Travel
 
+**Purpose**: GPT-Travel is designed to assist users with travel-related questions. It provides destination recommendations, budget travel options, and general travel advice. The chatbot helps user plan their trips efficiently by offering affordable travel destinations, cultural experiences, and potential travel challenges.
+
+
+**Platform**: GPT-Travel is buily using AI-based chatbot frameworks and runs on the Poe platform. It operates using a large language model trained on travel-related content, allowing it to generate relevant and informative responses. The chatbot can be integrated into a website as an assistant in a dedicated travel information
 
 |![Screenshot 2025-02-28 180813](https://github.com/user-attachments/assets/97644dbf-d8d2-470a-a3c7-d5b958247abb)|
 |:--:|
@@ -19,3 +24,5 @@
 |:--:|
 | *Figure 1: Conversation with GPT-Travel, introducing itself and offering assistance with travel plans * |
 
+
+**Personality**:
