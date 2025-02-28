@@ -11,8 +11,7 @@ After review the Manual Assessment Memo, I have drafted a reflective analysis on
 **Structure and Format**: The chatGPT AI uses a standard memo hearder followed by each different sections such as: overview, strengths, areas for improvement, and recommendation. The AI memo structured with numbered lists and bullets points throughout. It presents with three strength categories and three improvement areas, with two bullet points of elavoration. 
 
 
-
-|![Screenshot 2025-02-28 134033](https://github.com/user-attachments/assets/566d50f9-e58d-43e6-bbe4-d2d68bb49662)|
+![Screenshot 2025-02-27 232352](https://github.com/user-attachments/assets/90e8d963-6f7d-43b7-bd37-88d838700606)
 
 
 ![Screenshot 2025-02-28 002045](https://github.com/user-attachments/assets/f3724d13-f5be-401c-b1be-6e67ab93529f)
