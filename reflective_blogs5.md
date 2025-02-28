@@ -15,7 +15,7 @@ After review the Manual Assessment Memo, I have drafted a reflective analysis on
 | *Figure 1: Business memorandum evaluating memo manual* |
 
 ![Screenshot 2025-02-28 002045](https://github.com/user-attachments/assets/f3724d13-f5be-401c-b1be-6e67ab93529f)
-|:--:|
+
 | *Figure 2: The area of improvement from chatGPT* |
 
 ![Screenshot 2025-02-28 002106](https://github.com/user-attachments/assets/493bad16-62fc-4ae1-aad2-3bf526bd88a5)
