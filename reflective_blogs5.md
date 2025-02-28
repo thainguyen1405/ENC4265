@@ -12,7 +12,7 @@ After review the Manual Assessment Memo, I have drafted a reflective analysis on
 
 
 
-![Figure 1: Business memorandum evaluating memo manual](https://github.com/user-attachments/assets/e07aac46-f700-4afe-af19-da2611f0a81d).
+![Figure 1: Business memorandum evaluating memo manual](https://github.com/user-attachments/assets/e07aac46-f700-4afe-af19-da2611f0a81d)
 
 *Figure 1: Business memorandum evaluating memo manual*
 
