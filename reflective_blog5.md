@@ -22,6 +22,7 @@ After review the Manual Assessment Memo, I have drafted a reflective analysis on
 |:--:|
 | *Figure 3: Final section for recommendations improvement* |
 
+<br>
 
 **Strenghts**: The AI produced a well-structured, visually organized memo with appropriate headings, numbering, and bullet points. It created a balanced assessment framework with strengths, areas for improvement, and specific recommendations that follow logically from the identified issues. There's a logical progression from identifying issues to providing corresponding recommendations that address each problem area. The AI demonstrated its knowledge by mentioning revlevant technical terms like "BIOS settings, UEFI Firmware, CTR 21 Compliance" and "ASUS utilities".
 
