@@ -20,10 +20,14 @@
 | *Figure 2: Budget-friendly travel recommendations for a $500 budget * |
 
 <br>
+-> We can clearly see this GPT-Travel knows popular travel destinations worldwide, offers suggestions based on user input, and shares insights on accommodations, cultural experiences, and way to save money.
+
 
 |![Screenshot 2025-02-28 180941](https://github.com/user-attachments/assets/7e028b01-af9e-461a-8f62-c809002820a1)|
 |:--:|
 | *Figure 1: Conversation with GPT-Travel, introducing itself and offering assistance with travel plans * |
 
+<br>
+-> Additionally, it highlights the pros and cons of visiting certain places, making it a helpful tool for trip planning. 
 
 **Personality**: GPT-Travel has a friendly, engaging, and informative personality. It refers to users as "adventures" and maintains a conversational tone to make interactions feel more personal. The chatbot is neutral in terms of gender and nationality, focusing purely on providing useful travel advice. 
