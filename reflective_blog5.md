@@ -6,7 +6,7 @@ Use any generative AI to generate an assignment (or some other piece of writing)
 
 After review the Manual Assessment Memo, I have drafted a reflective analysis on the AI generation of its strengths and weaknesses. 
 
-
+**Structure and Format**: The chatGPT AI uses a standard memo hearder followed by each different sections such as: overview, strengths, areas for improvement, and recommendation. The AI memo structured with numbered lists and bullets points throughout. It presents with three strength categories and three improvement areas, with two bullet points of elavoration. 
 
 ![Screenshot 2025-02-27 232352](https://github.com/user-attachments/assets/e07aac46-f700-4afe-af19-da2611f0a81d)
 |:--:|
