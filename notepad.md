@@ -35,6 +35,6 @@ As always, let me know if you have questions or I can clarify any of my feedback
 ## SHOWCASE 1
 Nice, supportive replies and suggestions! Please make sure that you cite the readings to support your points next time :)
 
-##Chatbot
+## Chatbot
 [Chatbot](chatbot.md)
 
