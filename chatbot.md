@@ -4,7 +4,7 @@
 
 **Purpose**: GPT-Travel is designed to assist users with travel-related questions. It provides destination recommendations, budget travel options, and general travel advice. The chatbot helps user plan their trips efficiently by offering affordable travel destinations, cultural experiences, and potential travel challenges.
 
-Direct Link: https://poe.com/chat/36kh71avft6tp0zjulu
+Direct Link: [https://poe.com/chat/36kh71avft6tp0zjulu](https://poe.com/GPT-Travel)
 
 <br>
 
