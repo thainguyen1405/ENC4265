@@ -39,3 +39,8 @@ Direct Link: https://poe.com/chat/36kh71avft6tp0zjulu
 <br>
 
 **Personality**: GPT-Travel has a friendly, engaging, and informative personality. It refers to users as "adventures" and maintains a conversational tone to make interactions feel more personal. The chatbot is neutral in terms of gender and nationality, focusing purely on providing useful travel advice. 
+
+<br>
+
+**Conclusion**: Interact with GPT-Travel provided valuable experience how chatbots function and their effectiveness in assisting users with specific tasks. However, it also highlighted some limitations, such as provide real-time travel updates or personalized questions. This experience emphasized the importance of designing chatbots with a clear purpose and well-defined scope to enhance user experience. Overall, GPT-Travel serves as a useful tool for general travel advice, showing the potetial of AI assistants in simplifying information and decision-making. 
+
