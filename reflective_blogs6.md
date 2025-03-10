@@ -7,7 +7,6 @@ After you have completed the Chatbot assignment or any assignment using AI for m
 
 After experience with GPT-Travel, I have drafted a reflective analysis on its effective and functionality.
 
-Chatbot analysis: GPT-Travel
 
 **Purpose**: GPT-Travel is designed to assist users with travel-related questions. It provides destination recommendations, budget travel options, and general travel advice. The chatbot helps user plan their trips efficiently by offering affordable travel destinations, cultural experiences, and potential travel challenges.
 
