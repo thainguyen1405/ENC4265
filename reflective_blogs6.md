@@ -1,9 +1,11 @@
 # Reflective Blog 6
 
-## Prompt R: After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
+## Prompt R:
+
+After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
 
 
-## Chatbot analysis: GPT-Travel
+Chatbot analysis: GPT-Travel
 
 **Purpose**: GPT-Travel is designed to assist users with travel-related questions. It provides destination recommendations, budget travel options, and general travel advice. The chatbot helps user plan their trips efficiently by offering affordable travel destinations, cultural experiences, and potential travel challenges.
 
