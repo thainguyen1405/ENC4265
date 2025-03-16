@@ -11,7 +11,7 @@ Welcome to HayMate BOT, a friendly and informative chatbot designed to help play
 
 
 
-Direct Link: [https://poe.com/chat/36kh71avft6tp0zjulu](https://poe.com/GPT-Travel](https://box.boodle.ai/a/@HayMateBOT)
+Direct Link: https://box.boodle.ai/a/@HayMateBOT
 
 <br>
 
