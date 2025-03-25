@@ -6,7 +6,7 @@ Upload your resume (without your address, phone number, and email) to a generati
 
 <br>
 
-Direct link: https://box.boodle.ai/a/@ResumeChoice
+Direct link: [https://box.boodle.ai/a/@ResumeChoice](https://box.boodle.ai/a/@ResumeChoice)
 
 <br>
 
