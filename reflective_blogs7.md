@@ -6,7 +6,7 @@ Upload your resume (without your address, phone number, and email) to a generati
 
 
 
-**Reflection:** After using the AI tool to analyze my resume, I was impressed by the effectively of it on how the tool identified my strenghts and areas for improvement. Instead of generating general suggestions, the AI provided detail recimmendations aligned with my target fields, including AI/ML, software engineering, and full-stack development. One specific thing was how the AI transformed my broad project descriptions into measureable achievements, such as highlighting "85% prediction accuracy" in my football analytics platform. By that, the AI helped me refocus my experiences to better align with employer expectations.
+**Reflection:** After using the AI tool to analyze my resume, I was impressed by the effectively of it on how the tool identified my strenghts and areas for improvement. Instead of generating general suggestions, the AI provided detail recimmendations aligned with my target fields, including AI/ML, software engineering, and full-stack development. One specific thing was how the AI transformed my broad project descriptions into measureable achievements, such as highlighting prediction accuracy in my football analytics platform. By that, the AI helped me refocus my experiences to better align with employer expectations.
 
 
 ![Screenshot 2025-03-24 235329](https://github.com/user-attachments/assets/e314fb8d-485b-4649-8823-7f56d84696c5)
