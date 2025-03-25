@@ -6,7 +6,8 @@ Upload your resume (without your address, phone number, and email) to a generati
 
 
 
-**Reflection:** After using the AI tool to analyze my resume, I was surprised by how effectively it identified my core strengths and weaknesses. The tool didn't just suggest generic improvements—it tailored recommendations specifically for my target fields (AI/ML, software engineering, and full-stack development). What stood out most was how it transformed vague project descriptions into quantifiable achievements, like specifying "85% prediction accuracy" for my football analytics platform. This exercise made me realize my resume was telling a story, but not the right one—until the AI helped reframe my experiences to speak directly to employer needs.
+**Reflection:** After using the AI tool to analyze my resume, I was impressed by the effectively of it on how the tool identified my strenghts and areas for improvement. Instead of generating general suggestions, the AI provided detail recimmendations aligned with my target fields, including AI/ML, software engineering, and full-stack development. One specific thing was how the AI transformed my broad project descriptions into measureable achievements, such as highlighting "85% prediction accuracy" in my football analytics platform. By that, the AI helped me refocus my experiences to better align with employer expectations.
+
 
 ![Screenshot 2025-03-24 235329](https://github.com/user-attachments/assets/e314fb8d-485b-4649-8823-7f56d84696c5)
 |:--:|
@@ -14,14 +15,13 @@ Upload your resume (without your address, phone number, and email) to a generati
 
 
 
-**Suggestion:** To make my resume truly stand out, the AI suggested focusing on "magnetism"—elements that naturally draw employer attention. This included:
-Leading with technical projects rather than education to showcase hands-on skills
+**Suggestion:** To make my resume truly stand out, the AI recommended emphasizing "magnetism" which naturally capture an employer's attention. The suggestion included"
 
-Adding industry keywords like "scikit-learn" and "Agile development" for ATS compatibility
+- Leading with technical projects rather than education to highlight hands-on skills
+- Incorporating industry-specific keywords like "scikit-learn" and "Agile development" for better compatibility with Applicant Tracking Systems (ATS)
+- Repurposing non-technical work experience, such as my retail job, to emphasize transferable skills like problem-solving
+- Creating tailored versions of my resume to align with different career paths
 
-Repurposing non-technical work experience (like my retail job) to highlight transferable skills like problem-solving
-
-Creating role-specific versions of my resume to address different career paths
 
 ![Screenshot 2025-03-24 235406](https://github.com/user-attachments/assets/ee68cce0-63b4-40b5-859f-851db67a5343)
 |:--:|
