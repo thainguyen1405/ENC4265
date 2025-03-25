@@ -8,6 +8,7 @@ Upload your resume (without your address, phone number, and email) to a generati
 
 Direct link: https://box.boodle.ai/a/@ResumeChoice
 
+<br>
 
 **Reflection:** After using the AI tool to analyze my resume, I was impressed by the effectively of it on how the tool identified my strenghts and areas for improvement. Instead of generating general suggestions, the AI provided detail recimmendations aligned with my target fields, including AI/ML, software engineering, and full-stack development. One specific thing was how the AI transformed my broad project descriptions into measureable achievements, such as highlighting prediction accuracy in my football analytics platform. By that, the AI helped me refocus my experiences to better align with employer expectations.
 
