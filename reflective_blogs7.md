@@ -14,8 +14,7 @@ Direct link: https://box.boodle.ai/a/@ResumeChoice
 
 
 
-|![Screenshot 2025-03-24 235329](https://github.com/user-attachments/assets/e314fb8d-485b-4649-8823-7f56d84696c5)
-|
+|![Screenshot 2025-03-24 235329](https://github.com/user-attachments/assets/e314fb8d-485b-4649-8823-7f56d84696c5)|
 |:--:|
 | *Screenshot by Thai Nguyen. 'AI analysis on recommended position and key strenghts'* |
 
