@@ -10,7 +10,7 @@ Upload your resume (without your address, phone number, and email) to a generati
 
 ![Screenshot 2025-03-24 235329](https://github.com/user-attachments/assets/e314fb8d-485b-4649-8823-7f56d84696c5)
 |:--:|
-| *Screenshot by Thai Nguyen: AI-generated position recommendations highlighting my suitability for software engineering, AI/ML, and full-stack roles. Professor feedback: 'Good start - consider adding specific companies/organizations that typically hire for these roles.* |
+| *Screenshot by Thai Nguyen. Professor: 'Add target companies for these roles.* |
 
 
 
@@ -25,11 +25,11 @@ Creating role-specific versions of my resume to address different career paths
 
 ![Screenshot 2025-03-24 235406](https://github.com/user-attachments/assets/ee68cce0-63b4-40b5-859f-851db67a5343)
 |:--:|
-| *Screenshot by Thai Nguyen: Structural improvement suggestions from the AI tool, including section reordering and ATS formatting. Professor feedback: 'The section reorganization makes sense - have you tested this format with actual ATS systems?'* |
+| *Screenshot by Thai Nguyen. Professor: 'Test this ATS format.* |
 
 ![Screenshot 2025-03-24 235418](https://github.com/user-attachments/assets/15c841cd-7712-4672-aa80-d30611f38b57)
 |:--:|
-| *Screenshot by Thai Nguyen: Keyword and verb optimization strategies for applicant tracking systems. Professor feedback: 'Excellent keyword list - suggest adding 'CI/CD pipelines' for DevOps-oriented roles too.'* |
+| *Screenshot by Thai Nguyen. Professor: 'Include CI/CD for DevOps roles.* |
 
 **What did I learn?** 
 
