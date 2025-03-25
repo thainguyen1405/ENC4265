@@ -37,3 +37,9 @@ Everything is relevant: Even my hospital volunteer work demonstrated valuable sk
 One-size-fits-none: A generalized resume works against me; tailoring content for each job application is worth the effort.
 
 AI is a starting point: While the tool caught structural issues, human judgment is still needed for nuance (like emphasizing open-source contributions).
+
+
+
+
+**Note: This page was developed with writing assistance from Claude, an AI language model by Anthropic, to help refine and improve the text content.
+
