@@ -9,7 +9,8 @@ Upload your resume (without your address, phone number, and email) to a generati
 **Reflection:** After using the AI tool to analyze my resume, I was surprised by how effectively it identified my core strengths and weaknesses. The tool didn't just suggest generic improvements—it tailored recommendations specifically for my target fields (AI/ML, software engineering, and full-stack development). What stood out most was how it transformed vague project descriptions into quantifiable achievements, like specifying "85% prediction accuracy" for my football analytics platform. This exercise made me realize my resume was telling a story, but not the right one—until the AI helped reframe my experiences to speak directly to employer needs.
 
 ![Screenshot 2025-03-24 235329](https://github.com/user-attachments/assets/e314fb8d-485b-4649-8823-7f56d84696c5)
-
+|:--:|
+| *Figure 1: Conversation with GPT-Travel, introducing itself and offering assistance with travel plans * |
 
 
 
