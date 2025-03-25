@@ -25,7 +25,7 @@ Upload your resume (without your address, phone number, and email) to a generati
 
 ![Screenshot 2025-03-24 235406](https://github.com/user-attachments/assets/ee68cce0-63b4-40b5-859f-851db67a5343)
 |:--:|
-| *Screenshot by Thai Nguyen. Professor: 'Test this ATS format.* |
+| *Screenshot by Thai Nguyen. 'The AI revision with structure improvements'* |
 
 ![Screenshot 2025-03-24 235418](https://github.com/user-attachments/assets/15c841cd-7712-4672-aa80-d30611f38b57)
 |:--:|
