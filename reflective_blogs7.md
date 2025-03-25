@@ -33,16 +33,10 @@ Upload your resume (without your address, phone number, and email) to a generati
 
 **What did I learn?** 
 
-Specificity is key: Numbers and technical details (e.g., "Flask API" vs. "web app") make accomplishments more credible.
-
-Everything is relevant: Even my hospital volunteer work demonstrated valuable skills like troubleshooting tech—I just needed to reframe it.
-
-One-size-fits-none: A generalized resume works against me; tailoring content for each job application is worth the effort.
-
-AI is a starting point: While the tool caught structural issues, human judgment is still needed for nuance (like emphasizing open-source contributions).
+I learned that specificity is crucial—numbers and technical details, such as "Flask API" versus just "web app," make accomplishments much more credible. I also realized that everything in my experience is relevant; even my hospital volunteer work showcased valuable skills like troubleshooting technology, but I just needed to reframe it. Another key insight was that a one-size-fits-all approach doesn't work for resumes. Focusing content for each job application makes a significant difference. Finally, I discovered that while AI can be a helpful starting point, human judgment is still essential, especially when it comes to adding nuance, like emphasizing open-source contributions.
 
 
 
 
-**Note: This page was developed with writing assistance from Claude, an AI language model by Anthropic, to help refine and improve the text content.
+**Note**: This page was developed with writing assistance from Claude, an AI language model by Anthropic, to help refine and improve the text content.
 
