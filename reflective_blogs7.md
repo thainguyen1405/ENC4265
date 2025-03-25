@@ -29,7 +29,7 @@ Upload your resume (without your address, phone number, and email) to a generati
 
 ![Screenshot 2025-03-24 235418](https://github.com/user-attachments/assets/15c841cd-7712-4672-aa80-d30611f38b57)
 |:--:|
-| *Screenshot by Thai Nguyen. Professor: 'Include CI/CD for DevOps roles.* |
+| *Screenshot by Thai Nguyen. 'ATS Optimization and other recommendations'* |
 
 **What did I learn?** 
 
