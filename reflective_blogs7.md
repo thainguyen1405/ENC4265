@@ -11,7 +11,7 @@ Upload your resume (without your address, phone number, and email) to a generati
 
 ![Screenshot 2025-03-24 235329](https://github.com/user-attachments/assets/e314fb8d-485b-4649-8823-7f56d84696c5)
 |:--:|
-| *Screenshot by Thai Nguyen. Professor: 'Add target companies for these roles.* |
+| *Screenshot by Thai Nguyen. 'AI analysis on recommended position and key strenghts'* |
 
 
 
