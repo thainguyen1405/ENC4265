@@ -14,7 +14,7 @@ Direct link: https://box.boodle.ai/a/@ResumeChoice
 
 
 
-![Screenshot 2025-03-24 235329](https://github.com/user-attachments/assets/e314fb8d-485b-4649-8823-7f56d84696c5)
+|![Screenshot 2025-03-24 235329](https://github.com/user-attachments/assets/e314fb8d-485b-4649-8823-7f56d84696c5)|
 |:--:|
 | *Screenshot by Thai Nguyen. 'AI analysis on recommended position and key strenghts'* |
 
@@ -28,13 +28,13 @@ Direct link: https://box.boodle.ai/a/@ResumeChoice
 - Creating tailored versions of my resume to align with different career paths
 
 
-![Screenshot 2025-03-24 235406](https://github.com/user-attachments/assets/ee68cce0-63b4-40b5-859f-851db67a5343)
+|![Screenshot 2025-03-24 235406](https://github.com/user-attachments/assets/ee68cce0-63b4-40b5-859f-851db67a5343)|
 |:--:|
 | *Screenshot by Thai Nguyen. 'The AI revision with structure improvements'* |
 
 <br>
 
-![Screenshot 2025-03-24 235418](https://github.com/user-attachments/assets/15c841cd-7712-4672-aa80-d30611f38b57)
+|![Screenshot 2025-03-24 235418](https://github.com/user-attachments/assets/15c841cd-7712-4672-aa80-d30611f38b57)|
 |:--:|
 | *Screenshot by Thai Nguyen. 'ATS Optimization and other recommendations'* |
 
