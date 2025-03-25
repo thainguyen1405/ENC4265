@@ -28,7 +28,7 @@ Direct link: https://box.boodle.ai/a/@ResumeChoice
 - Creating tailored versions of my resume to align with different career paths
 
 
-![Screenshot 2025-03-24 235406](https://github.com/user-attachments/assets/ee68cce0-63b4-40b5-859f-851db67a5343)
+|![Screenshot 2025-03-24 235406](https://github.com/user-attachments/assets/ee68cce0-63b4-40b5-859f-851db67a5343)|
 |:--:|
 | *Screenshot by Thai Nguyen. 'The AI revision with structure improvements'* |
 
