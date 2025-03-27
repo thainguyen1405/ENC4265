@@ -1,4 +1,4 @@
-[Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Notepad](notepad.md) | [Guide](soon.md) | [Reflective Blogs](reflective_blogs.md) | [Chatbot](chatbot.md)
+[Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Notepad](notepad.md) | [Guide](soon.md) | [Reflective Blogs](reflective_blogs.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md)
 
 # Table of Assignment 
 1. [Website Setup](#website-setup)
