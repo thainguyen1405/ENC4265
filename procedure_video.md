@@ -10,4 +10,4 @@
 
 <br>
 
-I created this video by Invideo text-to-video generatorLinks to an external site (one of those tool in AI video resources list), it was not good but decent, maybe I'll try another tools could be better than this :)
+I created this video by invideo AI, it was not good but decent, maybe I'll try another tools could be better than this :)
