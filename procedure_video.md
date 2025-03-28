@@ -11,4 +11,4 @@
 
 <br>
 
-I created this video by invideo AI, it was not good but decent, maybe I'll try another tools could be better than this :)
+I created this video by invideo AI, it was not really great but decent, maybe I'll try another tools could be better than this :)
