@@ -6,7 +6,8 @@ Prompt N: Use NotebookLM (log in with your Google account or make a new Google a
 
 <br>
 
-Direct link: [NotebookLM]([https://notebooklm.google.com/notebook/098d2edb-c57c-4dda-8ef0-c998dde60a6d?pli=1](https://notebooklm.google.com/notebook/098d2edb-c57c-4dda-8ef0-c998dde60a6d?_gl=1*1er1sj3*_up*MQ..*_ga*MTU0Mzk5MTM1MS4xNzQzNDM5OTcx*_ga_W0LDH41ZCB*MTc0MzQzOTk3MS4xLjEuMTc0MzQzOTk3MS42MC4wLjA.&gclid=EAIaIQobChMIwYOAudqligMVlptaBR2etzSYEAAYASAAEgL6CfD_BwE&original_referer=https:%2F%2Fnotebooklm.google%23&pli=1)
+Direct link: [NotebookLM](https://notebooklm.google.com/notebook/098d2edb-c57c-4dda-8ef0-c998dde60a6d?pli=1)
+
 
 
 <br>
