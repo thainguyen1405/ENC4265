@@ -14,7 +14,12 @@ Direct link: https://notebooklm.google.com/notebook/098d2edb-c57c-4dda-8ef0-c998
 **Reflection:** After using the NotebookLM to analyze the file I upload "Asus ZenBook Flip 15 User Manual (PDF, 106 pages)". I've asked the AI several questions, including:
 
 - “Summarize the main features of the Asus ZenBook Flip 15”
-  
+
+|![Screenshot 2025-03-31 132035](https://github.com/user-attachments/assets/7f7d355f-5b0d-475b-bf42-74b2c773e3ed)|
+|:--:|
+| *Screenshot by Thai Nguyen. 'AI analysis on recommended position and key strenghts'* |
+
+
 - “How does this manual explain setting up and using the ZenBook Flip 15 for the first time?”
 - “What troubleshooting tips does the manual provide?”
 - “Explain the safety precautions and maintenance tips in the manual”
