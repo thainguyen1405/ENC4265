@@ -1,8 +1,8 @@
 # Reflective Blog 8
 
-## Prompt Q:
+## Prompt N:
 
-Prompt N: Use NotebookLM (log in with your Google account or make a new Google account for experimenting with this) to analyze a manual from the web (manua.ls has a ton) (See their privacy policy here). Share a brief report describing your process, the manual, and your thoughts on the tool. What did it make easier for you? What was not easy? What do you think about the use of this AI for your future career?
+Use NotebookLM (log in with your Google account or make a new Google account for experimenting with this) to analyze a manual from the web (manua.ls has a ton) (See their privacy policy here). Share a brief report describing your process, the manual, and your thoughts on the tool. What did it make easier for you? What was not easy? What do you think about the use of this AI for your future career?
 
 
 Direct link: [NotebookLM](https://notebooklm.google.com/notebook/098d2edb-c57c-4dda-8ef0-c998dde60a6d?pli=1)
