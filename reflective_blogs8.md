@@ -11,4 +11,14 @@ Direct link: https://notebooklm.google.com/notebook/098d2edb-c57c-4dda-8ef0-c998
 
 <br>
 
-**Reflection:** After using the AI tool to analyze my resume, I was impressed by the effectively of it on how the tool identified my strenghts and areas for improvement. Instead of generating general suggestions, the AI provided detail recimmendations aligned with my target fields, including AI/ML, software engineering, and full-stack development. One specific thing was how the AI transformed my broad project descriptions into measureable achievements, such as highlighting prediction accuracy in my football analytics platform. By that, the AI helped me refocus my experiences to better align with employer expectations.
+**Reflection:** After using the NotebookLM to analyze the file I upload "Asus ZenBook Flip 15 User Manual (PDF, 106 pages)". I've asked the AI several questions, including:
+
+- “Summarize the main features of the Asus ZenBook Flip 15”
+  
+- “How does this manual explain setting up and using the ZenBook Flip 15 for the first time?”
+- “What troubleshooting tips does the manual provide?”
+- “Explain the safety precautions and maintenance tips in the manual”
+- “How does this tool help me understand the document better compared to reading it myself?”
+
+
+ 
