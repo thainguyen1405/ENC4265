@@ -47,4 +47,8 @@ Direct link: https://notebooklm.google.com/notebook/098d2edb-c57c-4dda-8ef0-c998
   | *Screenshot by Thai Nguyen. 'AI analysis on recommended position and key strenghts'* |
 
 
+
+##Easy: 
+
+
  
