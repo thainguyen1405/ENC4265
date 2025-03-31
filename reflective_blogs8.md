@@ -28,11 +28,13 @@ Direct link: [NotebookLM](https://notebooklm.google.com/notebook/098d2edb-c57c-4
   |*Screenshot by Thai Nguyen. NotebookLM confirms it could not locate any setup instructions in the document excerpt.* |
   
 - “What troubleshooting tips does the manual provide?”
+
   |![Screenshot 2025-03-31 132835](https://github.com/user-attachments/assets/2e4016f7-e38c-4284-b557-be7f8aa18633)|
   |:--:|
-  |*Screenshot by Thai Nguyen. The AI explains that the provided manual section lacks troubleshooting content.* |
+  |*Screenshot by Thai Nguyen. The AI explains that the provided manual section lacks troubleshooting content.*|
   
 - “Explain the safety precautions and maintenance tips in the manual”
+
   |![Screenshot 2025-03-31 132947](https://github.com/user-attachments/assets/65c5ab59-a9f8-44af-95c6-d37897d0bfab)|
   |:--:|
   | *Screenshot by Thai Nguyen. The image highlights that NotebookLM found no safety or maintenance content in the manual excerpt.*|
