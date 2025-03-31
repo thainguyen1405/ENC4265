@@ -48,7 +48,11 @@ Direct link: https://notebooklm.google.com/notebook/098d2edb-c57c-4dda-8ef0-c998
 
 
 
-##Easy: 
+**Easy:** One thing I really liked was the design and layout of NotebookLM, it’s clean, modern, and easy to navigate. It helped me stay organized as I worked through the assignment, and the interface made it simple to ask and track questions. Even though it couldn't process the full manual, the tool itself was user-friendly and well-structured.
+
+**Uneasy:** The main problem here was that NotebookLM didn’t seem to fully process the entire PDF. It mainly read just the cover and a few metadata lines, which meant it couldn’t provide meaningful answers to my content questions. I wasn’t able to get any information on setup instructions, features, or troubleshooting, which limited the usefulness of the tool in this case.
+
+**Using NotebookLM for future:** Despite this limitation, I can still see the potential of NotebookLM in a professional setting. If it works with properly formatted documents, it could be a valuable tool for summarizing large files, organizing research, and saving time during document reviews. With improvements to how it handles file content, I would consider using it again in the future.
 
 
  
