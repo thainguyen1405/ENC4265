@@ -2,7 +2,7 @@
 
 ## Prompt Q:
 
-Prompt N: Use NotebookLMLinks to an external site. (log in with your Google account or make a new Google account for experimenting with this) to analyze a manual from the web (manua.lsLinks to an external site. has a ton) (See their privacy policy hereLinks to an external site.). Share a brief report describing your process, the manual, and your thoughts on the tool. What did it make easier for you? What was not easy? What do you think about the use of this AI for your future career?
+Prompt N: Use NotebookLM (log in with your Google account or make a new Google account for experimenting with this) to analyze a manual from the web (manua.ls has a ton) (See their privacy policy here). Share a brief report describing your process, the manual, and your thoughts on the tool. What did it make easier for you? What was not easy? What do you think about the use of this AI for your future career?
 
 <br>
 
@@ -46,9 +46,11 @@ Direct link: https://notebooklm.google.com/notebook/098d2edb-c57c-4dda-8ef0-c998
   |:--:|
   | *Screenshot by Thai Nguyen. 'AI analysis on recommended position and key strenghts'* |
 
-
+<br>
 
 **Easy:** One thing I really liked was the design and layout of NotebookLM, it’s clean, modern, and easy to navigate. It helped me stay organized as I worked through the assignment, and the interface made it simple to ask and track questions. Even though it couldn't process the full manual, the tool itself was user-friendly and well-structured.
+
+<br>
 
 **Uneasy:** The main problem here was that NotebookLM didn’t seem to fully process the entire PDF. It mainly read just the cover and a few metadata lines, which meant it couldn’t provide meaningful answers to my content questions. I wasn’t able to get any information on setup instructions, features, or troubleshooting, which limited the usefulness of the tool in this case.
 
