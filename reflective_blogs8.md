@@ -27,8 +27,24 @@ Direct link: https://notebooklm.google.com/notebook/098d2edb-c57c-4dda-8ef0-c998
   | *Screenshot by Thai Nguyen. 'AI analysis on recommended position and key strenghts'* |
   
 - “What troubleshooting tips does the manual provide?”
+  |  ![Screenshot 2025-03-31 132835](https://github.com/user-attachments/assets/2e4016f7-e38c-4284-b557-be7f8aa18633)|
+  |:--:|
+  | *Screenshot by Thai Nguyen. 'AI analysis on recommended position and key strenghts'* |
+  
 - “Explain the safety precautions and maintenance tips in the manual”
+  |![Screenshot 2025-03-31 132947](https://github.com/user-attachments/assets/65c5ab59-a9f8-44af-95c6-d37897d0bfab)|
+  |:--:|
+  | *Screenshot by Thai Nguyen. 'AI analysis on recommended position and key strenghts'* |
+  
 - “How does this tool help me understand the document better compared to reading it myself?”
+  
+  |![Screenshot 2025-03-31 133058](https://github.com/user-attachments/assets/b9c9232d-956c-4618-8509-d138601eb72c)|
+  |:--:|
+  | *Screenshot by Thai Nguyen. 'AI analysis on recommended position and key strenghts'* |
+
+  |![Screenshot 2025-03-31 133144](https://github.com/user-attachments/assets/f764215c-110c-4a63-b99a-c437a522e071)|
+  |:--:|
+  | *Screenshot by Thai Nguyen. 'AI analysis on recommended position and key strenghts'* |
 
 
  
