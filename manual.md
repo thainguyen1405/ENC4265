@@ -11,7 +11,7 @@ This is just a draft about 70-80% progress, will be in full version soon.
 
 
 
-[📄 View the full manual (PDF)](Manual_ENC4265 (EA Sport).pdf)
+[📄 View the full manual (PDF)](Manual ENC4265 (EA Sport).pdf)
 
 
 
