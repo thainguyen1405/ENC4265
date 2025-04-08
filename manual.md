@@ -10,8 +10,8 @@ I created this manual to help new and returning players of EA Sports FC 25 get t
 This is just a draft about 70-80% progress, will be in full version soon.
 
 
-[Uploading Manual ENC4265 (EA Sport).pdf…]()
 
+[Uploading Manual ENC4265 (EA Sport).pdf…]()
 
 
 
